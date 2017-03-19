@@ -21,4 +21,4 @@ theme = "landing-page-hugo"
 [[params.social]]
     title = "blog"
     icon = "book"
-    url = "http://blog.ywheel.cn"
+    url = "http://blog.ywheel.com"
